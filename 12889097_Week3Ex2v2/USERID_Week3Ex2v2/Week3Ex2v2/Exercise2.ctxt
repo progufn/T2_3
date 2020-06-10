@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exercise2
+comment0.text=\r\n\ Mastery\ Test\ Week\ 3\ Exercise\ 2.\ Thread\ 2.\r\n\ -\ Shift\ FIVE\ elements\ one\ place\ to\ the\ right.\r\n\ \r\n\ @author\ (your\ name)\ \r\n
+comment1.params=numbers
+comment1.target=int[]\ shiftRight(int[])
+numComments=2
